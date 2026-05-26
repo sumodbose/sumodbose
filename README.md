@@ -27,5 +27,3 @@ Open to DevOps projects, cloud automation work, and knowledge sharing.
 
 ### GitHub Stats ###
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumodbose&theme=dracula)](https://git.io/streak-stats)
-
-![Most Used Languages](https://raw.githubusercontent.com/sumodbose/github-stats-transparent/output/generated/languages.svg)
